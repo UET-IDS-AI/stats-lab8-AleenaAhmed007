@@ -28,6 +28,7 @@ def joint_cdf_unit_square(x, y):
     return float(x * y)
 
 
+
 def rectangle_probability(x1, x2, y1, y2):
     """
     Compute P(x1 < X <= x2, y1 < Y <= y2)
